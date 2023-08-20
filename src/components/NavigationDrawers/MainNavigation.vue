@@ -19,6 +19,7 @@
           <v-btn icon :color="NavItemColor" v-bind="attrs" v-on="on">
             <v-icon>mdi-dots-vertical</v-icon>
           </v-btn>
+          
         </template>
 
         <v-list>
